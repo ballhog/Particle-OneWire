@@ -3,5 +3,5 @@
   "author": "Rodriguez",
   "license": "MIT",
   "version": "2.0.1",
-  "description": "Dallas OneWire protocol support with ReadTemp example Core and Photon Support"
+  "description": "Dallas OneWire protocol support with ReadTemp example Core and Photon Support, adapted for firmware 0.4.4"
 }
